@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:text="@string/yourip"
+    android:textColor="@color/green" />
+
+<EditText
+    android:id="@+id/extip"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:editable="false"
+    android:text="@string/In_launch" >
+
+</EditText>
+
+<TextView
+    android:id="@+id/txtandroidid"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:text="@string/interface_IP:"
+    android:textColor="@color/green" >
+
+</TextView><EditText
+        android:id="@+id/androidip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:editable="false"
+        android:text="@string/In_launch" >
+
+</EditText>
+
+<Button
+    android:id="@+id/btnRefresh"
+    android:layout_width="152dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:clickable="true"
+    android:text="@string/refresh"
+    android:visibility="visible" />
+
+<TextView
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/check_speed"
+    android:textColor="@color/green" />
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="left"
+    android:clickable="true"
+    android:text="@string/speedtest" />
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:text="@string/bandwidthplace" />
+
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:text="@string/testmyspeed" />
+
+</LinearLayout>

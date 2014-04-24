@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yourip">Ваш внешний IP адрес:</string>
+    <string name="app_name">Проверь свой  IP</string>
+    <string name="about">О нас</string>
+    <string name="In_launch">In launch</string>
+    <string name="interface_IP:">IP адрес Вашего интерфейса:</string>
+    <string name="refresh">Обновить</string>
+    <color name="green">#82c300</color>
+    <color name="blue">#384797</color>
+    <string name="speedtest">http://www.speedtest.net/</string>
+    <string name="check_speed">Проверьте скорость вашего интернет соединения:</string>
+    <string name="please_wait">Пожалуйста подождите...</string>
+    <string name="bandwidthplace">http://www.bandwidthplace.com/</string>
+    <string name="testmyspeed">http://www.testmyspeed.com/</string>
+
+<string name="admob_publisher_id">a1519dee0b32b8e</string>
+</resources>

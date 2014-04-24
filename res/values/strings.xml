@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yourip">Your external IP is following:</string>
+    <string name="app_name">Check your IP</string>
+    <string name="about">About</string>
+    <string name="In_launch">In launch</string>
+    <string name="interface_IP:">Your interface IP:</string>
+    <string name="refresh">Refresh</string>
+    <color name="green">#82c300</color>
+    <color name="blue">#384797</color>
+    <string name="speedtest">http://www.speedtest.net/</string>
+    <string name="check_speed">Check the speed of your Internet connection:</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="bandwidthplace">http://www.bandwidthplace.com/</string>
+    <string name="testmyspeed">http://www.testmyspeed.com/</string>
+
+<string name="admob_publisher_id">a1519dee0b32b8e</string>
+</resources>
